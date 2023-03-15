@@ -1,9 +1,7 @@
 
-# Diverse - Lets get deversify.
+# Food Store- Online food service.
 
-Diverse is a social media chatting app where users can interact with different people, post images, comment, like and message each other. Users can add, edit and delete posts, comments and their details. Users can also follow and unfollow each other.
-
-![logo](https://user-images.githubusercontent.com/100460788/214284152-e74df401-40d9-414c-84f9-a20903bd8044.png)
+Food store is an online food service website where you can search for your favorite food items, see the trending food products, along with that You can also order your favorite food to your doorstep.
 
 ## Tech Stack
 
