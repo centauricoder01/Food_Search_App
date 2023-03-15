@@ -1,7 +1,7 @@
 
 # Food Store- Online food service.
 
-![Brown and Black Vintage Food Restaurant Logo ](https://user-images.githubusercontent.com/103047446/225300117-737cc218-db47-496b-bd05-05c38d9ad8ad.png)
+![Brown_and_Black_Vintage_Food_Restaurant_Logo_-removebg-preview](https://user-images.githubusercontent.com/103047446/225300440-07cf556c-89c4-4109-998e-6061c8a55b74.png)
 
 Food store is an online food service website where you can search for your favorite food items, see the trending food products, along with that You can also order your favorite food to your doorstep.
 
